@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">PhuongLinhPham_Assignment5</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="Seneca">
+        <item>Newnham Campus</item>
+        <item>Seneca@York Campus</item>
+        <item>King Campus</item>
+        <item>Markham Campus</item>
+        <item>Jane Campus</item>
+        <item>Newmarket Campus</item>
+    </string-array>
+    <string-array name="SenecaLocation">
+        <item>43.796075,-79.348498</item>
+        <item>43.771436,-79.499826</item>
+        <item>43.955797,-79.510144</item>
+        <item>43.850148,-79.36723</item>
+        <item>43.718298,-79.509804</item>
+        <item>44.035042, -79.472212</item>
+    </string-array>
+
+    <string-array name="Sheridan">
+        <item>Trafalgar Campus</item>
+        <item>Davis Campus</item>
+        <item>Hazel McCallion Campus</item>
+    </string-array>
+    <string-array name="SheridanLocation">
+        <item>43.46893,-79.699925</item>
+        <item>43.656068,-79.73887</item>
+        <item>43.59102,-79.64679</item>
+    </string-array>
+
+    <string-array name="Humber">
+        <item>North Campus</item>
+        <item>Lakeshore Campus</item>
+        <item>Orangeville Campus</item>
+    </string-array>
+    <string-array name="HumberLocation">
+        <item>43.731247,-79.608154</item>
+        <item>43.785435,-79.228231</item>
+        <item>43.90592,-80.125063</item>
+    </string-array>
+
+    <string-array name="Centennial">
+        <item>Progress Campus</item>
+        <item>Ashtonbee Campus</item>
+        <item>Morningside Campus</item>
+        <item>Eglinton Campus</item>
+        <item>Story Arts Centre</item>
+        <item>Pickering Campus</item>
+    </string-array>
+    <string-array name="CentennialLocation">
+        <item>43.784158,-79.228638</item>
+        <item>43.730891,43.730891</item>
+        <item>43.78632,-79.193119</item>
+        <item>43.706029,-79.40251</item>
+        <item>43.684726,-79.348844</item>
+        <item>43.832847, -79.086178</item>
+    </string-array>
+</resources>
